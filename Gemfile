@@ -67,3 +67,5 @@ group :development do
 gem "letter_opener", group: :development
 end
 
+
+gem "tailwindcss-rails", "~> 2.0"
