@@ -62,5 +62,8 @@ group :development do
 
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
+
+  gem "devise", github: "heartcombo/devise", ref: "f8d1ea90bc3"
+gem "letter_opener", group: :development
 end
 
